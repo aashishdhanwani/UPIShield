@@ -8,6 +8,11 @@ The project combines rule-based risk scoring with machine learning experimentati
 
 ---
 
+## 🚀 Live Demo
+
+👉 [*UPIShield – Live Demo*](https://upishieldanjali1stapp.streamlit.app/)
+
+
 ## 🚨 Problem Statement
 
 UPI transactions have grown rapidly, making digital payments faster and more convenient. However, the increasing transaction volume also creates opportunities for fraudulent and suspicious activities.
