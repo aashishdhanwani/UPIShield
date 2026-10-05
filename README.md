@@ -242,14 +242,9 @@ UPIShield aims to move beyond simple fraud detection by making transaction risk 
 
 ## 👨‍💻 Presented By
 
-**Anjali Gupta**  
-**(24EACAD009)**  
-**(Branch – AIDS)**
+**Aashish Dhanwani**  
+**(24ESKCA006)**  
+**(Branch – CS-AI)**
 
 ---
 
-## 🏆 Hackathon Project
-
-**UPIShield — AI-powered UPI Fraud Detection & Risk Analysis**
-
-Built as a hackathon prototype to demonstrate an explainable approach to detecting suspicious UPI transactions.
